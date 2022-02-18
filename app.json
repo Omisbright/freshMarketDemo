@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "freshMarket",
+    "slug": "freshMarket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
